@@ -1,0 +1,21 @@
+# Python Caché
+__pycache__/
+
+# Others
+*.spec
+*.ico
+main.spec
+
+# Build and Pack
+build/
+dist/
+
+# IDE & Code Editor configurations
+.idea/
+.vscode/
+
+# testing
+./test.py
+
+#Ignore venv
+venv/

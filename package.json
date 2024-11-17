@@ -1,10 +1,10 @@
 {
-  "name": "pytranductorsrt",
-  "version": "0.0.1",
-  "description": "PyTraductorSRT permitirá traducir subtitulos de videos a otros idiomas, teniendo el archivo .srt o link del video de Youtube",
+  "name": "pytraductor",
+  "version": "0.2.0",
+  "description": "PyTraductor permitirá traducir subtítulos de videos a otros idiomas, teniendo el archivo .srt .",
   "main": "main.py",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "flet main.py"
   },
   "author": "LuisSteel07",
   "license": "ISC"
