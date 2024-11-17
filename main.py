@@ -20,14 +20,9 @@ def main(page: ft.Page):
             ft.dropdown.Option('es', 'Español'),
             ft.dropdown.Option('en', 'Inglés'),
             ft.dropdown.Option('de', 'Alemán'),
-            ft.dropdown.Option('ar', 'Árabe'),
-            ft.dropdown.Option('ko', 'Coreano'),
             ft.dropdown.Option('fr', 'Francés'),
             ft.dropdown.Option('it', 'Italiano'),
             ft.dropdown.Option('pt', 'Portugués'),
-            ft.dropdown.Option('ru', 'Ruso'),
-            ft.dropdown.Option('ja', 'Japonés'),
-            ft.dropdown.Option('hi', 'Hindi'),
         ]
     )
 
@@ -61,6 +56,7 @@ def main(page: ft.Page):
             button_traducer.disabled = True
             file_srt_path.disabled = True
             state_process.visible = True
+            label_porcent.value = ""
             page.update()
 
             start_time = time()
