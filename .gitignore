@@ -17,5 +17,8 @@ dist/
 # testing
 ./test.py
 
-#Ignore venv
-venv/
+# cache data Flet
+storage
+
+#Ignore .venv
+.venv/

@@ -1,5 +1,5 @@
-# PyTraductorSRT
-El proyecto PyTraductorSRT ofrece la funcionalidad de poder traducir archivos de subtítulos .srt a otros idiomas sin 
+# PyTraductor
+El proyecto PyTraductor ofrece la funcionalidad de poder traducir archivos de subtítulos .srt a otros idiomas sin 
 complicaciones y de manera rápida.
 
 # Características y Funciones
@@ -28,12 +28,8 @@ segundo plano, lo que claro, son muchísimas, por lo cual cada 20 inicializacion
 Mientras de vaya terminando cada actividad se calculá el porciento de traducción y al final se mostrará el tiempo
 transcurrido para realizar la traducción completamente en segundos.
  
-# Fotos
+# Enlace de descarga del programa
 
-# Pagina oficial y descarga
-Puede ingresar directamente a la página oficial de PyTraductorSRT que comparte posición con PyDownVideo. En la misma le
-enseñamos a trabajar, con una pequeña guía, con PyTraductorSRT.  Además de descagar el archivo con un enlace
-proporcionado en la página.
 
 # Licencia
 MIT
